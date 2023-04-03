@@ -11,7 +11,6 @@ import static org.junit.Assert.assertThrows;
 
 
 @RunWith(MockitoJUnitRunner.class)
-
 public class LionTest {
 
     @Mock
